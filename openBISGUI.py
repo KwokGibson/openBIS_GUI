@@ -136,7 +136,7 @@ pg = st.navigation([main_page, new_samples, sample_moving, data_reporting ])
 
 
 st.sidebar.image("media/NEURONE-dark-logo.png")
-st.sidebar.write("Logged into openBIS: ", st.session_state.logged_in)
+#st.sidebar.write("Logged into openBIS: ", st.session_state.logged_in)
 
 
 
