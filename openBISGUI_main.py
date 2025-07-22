@@ -2,10 +2,6 @@ import streamlit as st
 
 
 st.title('openBIS GUI for Neurone')
-
-with st.sidebar:
-    st.header('Neurone openBIS Companion App')
-
     st.subheader("Log into openBIS and configure access to Coscine")
 
     placeholder1 = st.empty()
@@ -71,3 +67,9 @@ with st.sidebar:
                 st.session_state.setup_done = True
             placeholder1.empty()
     placeholder2 = st.empty()
+
+
+with st.sidebar:
+    st.header('Neurone openBIS Companion App')
+
+    
