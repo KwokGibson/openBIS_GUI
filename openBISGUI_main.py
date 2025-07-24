@@ -4,7 +4,7 @@ import streamlit as st
 from streamlit import config as st_config
 import os
 import time
-from pybis import Openbis
+import pybis
 import pandas as pd
 from configparser import ConfigParser
 from io import StringIO
