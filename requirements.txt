@@ -1,1 +1,13 @@
 graphviz
+pybis
+qrcode
+cv2
+numpy
+PIL
+jason
+io
+datetime
+base64
+os
+time
+configparser
