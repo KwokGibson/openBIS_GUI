@@ -2,7 +2,7 @@ graphviz
 pybis
 qrcode
 opencv-python
-PIL
+pillow
 jason
 io
 datetime
