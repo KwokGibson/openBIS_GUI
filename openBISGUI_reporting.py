@@ -1,8 +1,15 @@
 import streamlit as st
 import graphviz
 
-st.markdown("# Data Reporting")
-st.sidebar.markdown("# Data Reporting")
+ 
+st.title("Data Reporting")
+
+st.write(
+    """
+This page is still a work-in-progress. When complete, it is intented to allow better visulisation of the parent-child relationships,
+    """
+
+)
 
 # Create a graphlib graph object
 graph = graphviz.Digraph()
