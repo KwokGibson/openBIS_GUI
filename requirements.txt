@@ -4,7 +4,3 @@ qrcode
 opencv-python
 pillow
 jason
-base64
-os
-time
-configparser
