@@ -1,7 +1,7 @@
 graphviz
 pybis
 qrcode
-cv2
+opencv-python
 numpy
 PIL
 jason
