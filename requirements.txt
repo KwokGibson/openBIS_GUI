@@ -4,7 +4,6 @@ qrcode
 opencv-python
 pillow
 jason
-io
 datetime
 base64
 os
