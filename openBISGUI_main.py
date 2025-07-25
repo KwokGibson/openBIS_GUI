@@ -149,7 +149,7 @@ def main():
         
         This web-app allows a cleaner interaction for common tasks than the openBIS web interface.
         
-        admin-250724134102509xB09785747C24C3354E6A7FA8170BF843
+        Login to openBIS below. Refreshing occassionally breaks the connection, please come back here if so.
         
         """
     )
