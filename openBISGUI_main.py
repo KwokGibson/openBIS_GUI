@@ -5,6 +5,7 @@ from streamlit import config as st_config
 import os
 import time
 import pybis
+from pybis import Openbis
 import pandas as pd
 from configparser import ConfigParser
 from io import StringIO
